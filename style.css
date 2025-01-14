@@ -196,7 +196,7 @@ li {
   font-weight: bold;
 }
 .qoutes {
-  background-image: url(assets/quote-bg.png);
+  background-image: url(./assets/quote-bg.png);
   background-repeat: no-repeat;
   background-position: top left;
   max-width: 1380px;
