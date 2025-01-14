@@ -1,4 +1,3 @@
-/* font */
 body {
   font-family: "Open Sans", serif;
   font-optical-sizing: auto;
@@ -44,7 +43,7 @@ body {
 }
 /* top banner end */
 
-//* vission  starts*/
+/* vission  starts*/
 .vission-head {
   font-size: 40px;
   font-weight: bold;
@@ -111,6 +110,7 @@ body {
   background-color: #f7ebcf;
 }
 /* the vision of future */
+
 /* donate today */
 #donate-now {
   margin-top: 20px;
@@ -282,4 +282,14 @@ li {
   width: 80%;
   margin: auto;
   padding: 10px;
+}
+
+/* hover */
+button:hover {
+  background-color: red;
+  font-size: 18px;
+}
+
+.donate-taka :hover {
+  background-color: #c6e4d6;
 }
