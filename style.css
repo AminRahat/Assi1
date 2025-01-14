@@ -111,3 +111,175 @@ body {
   background-color: #f7ebcf;
 }
 /* the vision of future */
+/* donate today */
+#donate-now {
+  margin-top: 20px;
+  margin-bottom: 50px;
+}
+.donate-head {
+  font-size: 40px;
+  font-weight: bold;
+}
+.donate-des {
+  font-size: 16px;
+}
+.donate-today {
+  text-align: center;
+  padding-top: 5%;
+}
+li {
+  list-style-type: none;
+}
+.donate-taka {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.taka-catagory {
+  padding: 40px;
+  margin: 10px;
+  background-color: white;
+  border: 1px solid whitesmoke;
+  border-radius: 16px;
+  font-weight: 700;
+  font-size: 40px;
+}
+#fill-color {
+  padding: 40px;
+  margin: 10px;
+  background-color: #c6e4d6;
+
+  border-radius: 16px;
+  font-weight: 700;
+  font-size: 40px;
+}
+
+.other-amount {
+  margin: 0px 200px 0px 200px;
+  text-align: center;
+}
+
+.donate-plan {
+  text-align: center;
+  margin-top: 50px;
+}
+.input {
+  width: 1000px;
+  max-height: 50px;
+
+  padding: 20px;
+}
+/* newsletter */
+.subscribe {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #c6e4d6;
+  width: 80%;
+  margin: auto;
+  padding: 40px;
+}
+.nws-p {
+  text-align: center;
+}
+.input-subs {
+  background-color: rgb(231, 230, 230);
+  border: none;
+  padding: 20px;
+  width: 700px;
+}
+.button {
+  background-color: orangered;
+  border: 1px solid salmon;
+  border-radius: 5px;
+  color: white;
+}
+.my-update {
+  text-align: center;
+}
+/* qoutes section */
+.younus {
+  font-size: 20px;
+  font-weight: bold;
+}
+.qoutes {
+  background-image: url(/assets/quote-bg.png);
+  background-repeat: no-repeat;
+  background-position: top left;
+  max-width: 1380px;
+  max-height: 4500px;
+  margin: auto;
+  padding: 30px;
+  border-radius: 20px;
+  border: 1px solid rgba(245, 245, 245, 0.469);
+}
+
+/* footer section*/
+.footer {
+  text-align: center;
+  margin-top: 50px;
+}
+.footer-icon {
+  display: flex;
+  gap: 100px;
+  margin-top: 50px;
+}
+
+.footer-info {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+/* recent news */
+.recent {
+  padding-left: 130px;
+  padding-right: 130px;
+  margin-bottom: 40px;
+}
+.recent-headline {
+  font-size: 40px;
+  font-weight: bold;
+}
+.news-head {
+  font-size: 36px;
+  font-weight: bold;
+}
+.news-info {
+  font-size: 16px;
+}
+
+.About-us {
+  align-items: center;
+  margin: 74px;
+  padding: 24px;
+}
+.help-image {
+  border-image: round;
+
+  border-radius: 20px;
+  margin: 74px;
+  margin-left: 0;
+  padding: 24px;
+  height: 330px;
+}
+
+.news1 {
+  display: flex;
+  align-items: center;
+  background-color: #ece9e8;
+  width: 80%;
+  margin: auto;
+  margin-bottom: 40px;
+  padding: 10px;
+}
+
+.news2 {
+  display: flex;
+  align-items: center;
+  background-color: #ece9e8;
+  width: 80%;
+  margin: auto;
+  padding: 10px;
+}
